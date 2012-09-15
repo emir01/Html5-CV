@@ -1,0 +1,781 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"next",
+				"nextFrameX"
+			],
+			[
+				"untang",
+				"untangleGame"
+			],
+			[
+				"connected",
+				"connectedPoints"
+			],
+			[
+				"ci",
+				"circleY"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"update",
+				"updateLevelProgress"
+			],
+			[
+				"canvas",
+				"canvas"
+			],
+			[
+				"canv",
+				"canvas"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"circle",
+				"circleRadius"
+			],
+			[
+				"fil",
+				"fillStyle"
+			],
+			[
+				"circ",
+				"circle_gradient"
+			],
+			[
+				"progre",
+				"progressPercentage"
+			],
+			[
+				"upda",
+				"updateLevelProgress"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"line",
+				"Line"
+			],
+			[
+				"conn",
+				"connectedPoints"
+			],
+			[
+				"con",
+				"connectedPoints"
+			],
+			[
+				"leve",
+				"levels"
+			],
+			[
+				"set",
+				"setupCurrentLevel"
+			],
+			[
+				"current",
+				"currentLevel"
+			],
+			[
+				"untan",
+				"untangleGame"
+			],
+			[
+				"circl",
+				"circles"
+			],
+			[
+				"cur",
+				"currentLevel"
+			],
+			[
+				"una",
+				"untangleGame"
+			],
+			[
+				"untangl",
+				"untangleGame"
+			],
+			[
+				"isin",
+				"isInBetween"
+			],
+			[
+				"thi",
+				"thickness"
+			],
+			[
+				"cir",
+				"circles"
+			],
+			[
+				"layer",
+				"layerY"
+			],
+			[
+				"mouse",
+				"mouseY"
+			],
+			[
+				"start",
+				"startPoint"
+			],
+			[
+				"random",
+				"randomNumber"
+			],
+			[
+				"card",
+				"card-flipped"
+			],
+			[
+				"dire",
+				"directionY"
+			],
+			[
+				"main",
+				"lineNonMainDimn"
+			],
+			[
+				"isReadonly",
+				"isReadonly"
+			],
+			[
+				"origina",
+				"originalValue"
+			],
+			[
+				"org",
+				"originalValue"
+			],
+			[
+				"orii",
+				"originalValue"
+			],
+			[
+				"calculate",
+				"calculatedValue"
+			],
+			[
+				"d",
+				"dd"
+			],
+			[
+				"lorem",
+				"lorem	lorem - Short paragraph"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"CSS",
+				"Set Syntax: CSS"
+			],
+			[
+				"installp",
+				"Package Control: Install Package"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Package Control: List Packages"
+			],
+			[
+				"C#",
+				"Set Syntax: C#"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javsc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"instap",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"installe",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Snippet: font-style: normal/italic/oblique"
+			],
+			[
+				"prefixr",
+				"Preferences: Prefixr Key Bindings – Default"
+			],
+			[
+				"filesee",
+				"Preferences: File Settings - Default"
+			],
+			[
+				"fileset",
+				"Preferences: File Settings - User"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery change handler"
+			],
+			[
+				"jq",
+				"Snippet: jQuery live handler"
+			],
+			[
+				"ready",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"snipper",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"snippet",
+				"Snippet: form - Placeholder"
+			],
+			[
+				"snip",
+				"Snippet: Function"
+			],
+			[
+				"settings",
+				"Preferences: Global Settings - User"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"pacakg",
+				"Package Control: List Packages"
+			],
+			[
+				"package controlser",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"tagre",
+				"Tag: Remove Picked Tags in Document"
+			],
+			[
+				"tag",
+				"Tag: Remove Picked Tags in Selection"
+			],
+			[
+				"user",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"holder",
+				"Snippet: ul - Placeholder"
+			],
+			[
+				"palcehold",
+				"Snippet: Image - Placeholder"
+			],
+			[
+				"instalp",
+				"Package Control: Install Package"
+			],
+			[
+				"addre",
+				"Package Control: Add Repository"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"instalpa",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 491.0
+	},
+	"console":
+	{
+		"height": 132.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Emir/Desktop/Python/LPTHW/Ex5/ex5.py",
+		"/C/Users/Emir/Documents/GitHub/mobile-boilerplate/index.html",
+		"/C/Users/Emir/Desktop/CV HTML 5/index.htm",
+		"/C/Users/Emir/Desktop/CV HTML 5/styles.css",
+		"/C/Users/Emir/Desktop/CV HTML 5/styles.min.css",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/Emir/Documents/GitHub/html5-curriculum-vitae-template/index.htm",
+		"/C/Users/Emir/Desktop/Cv/css/site.less",
+		"/C/Users/Emir/Desktop/Cv/cv.html",
+		"/C/Users/Emir/Documents/GitHub/html5-curriculum-vitae-template/styles.css",
+		"/C/Users/Emir/Desktop/Cv/bootstrap/css/bootstrap.min.css",
+		"/C/Users/Emir/Desktop/Cv/site.less",
+		"/C/Users/Emir/Dropbox/Web App Experiments/Chapter4CanvasBasics/css/untangle.css",
+		"/C/Users/Emir/Documents/GitHub/Unity3D-Space-Weapon-System/README.md",
+		"/C/Users/EMIR/Dropbox/Web App Experiments/Chapter4CanvasBasics/index.html",
+		"/C/Users/Emir/Dropbox/Web App Experiments/Chapter4CanvasBasics/js/main.js",
+		"/D/Projects/NoteKeeperMVC/Github/Document.md",
+		"/C/Users/EMIR/Dropbox/Web App Experiments/Chapter4CanvasBasics/images/guide_sprite.png",
+		"/C/Users/Emir/Dropbox/Web App Experiments/Chapter4CanvasBasics/index.html",
+		"/C/Users/EMIR/Dropbox/Web App Experiments/Chapter4CanvasBasics/images/board1.png",
+		"/C/Users/EMIR/Dropbox/Web App Experiments/Chapter4CanvasBasics/CanvasBasics.sublime-project",
+		"/C/Users/Emir/Desktop/vckst/domains/students.mk/databases/students_GeoGrafija_2/tmp12464.bak",
+		"/C/Users/Emir/Dropbox/HTML5 Experiments/Chapter4CanvasBasics/index.html",
+		"/C/Users/Emir/Dropbox/HTML5 Experiments/Chapter4CanvasBasics/js/main.js",
+		"/C/Users/Emir/Dropbox/HTML5 Experiments/Chapter4CanvasBasics/css/untangle.css",
+		"/C/Users/Emir/Desktop/vckst/domains/students.mk/databases/students_GeoGrafija_2/bck_students_GeoGrafija_2_info_1206101737.xml",
+		"/C/Users/Emir/Desktop/HTML5/Resources/HTML5 Games Development by Example Beginner's Guide - Makzan - Packt (2011)/1260_05_Code/canvas_untangle_image_bg/js/html5games.untangle.js",
+		"/C/Users/Emir/Desktop/HTML5/Resources/HTML5 Games Development by Example Beginner's Guide - Makzan - Packt (2011)/1260_05_Code/canvas_untangle_image_bg/index.html",
+		"/C/Users/Emir/Dropbox/MemoryCardsHTML/Resources/1260_03_Code/css3_matching_game_embed_font/css/matchgame.css",
+		"/C/Users/Emir/Dropbox/MemoryCardsHTML/js/matchgame.js",
+		"/C/Users/Emir/Dropbox/MemoryCardsHTML/css/matchgame.css",
+		"/C/Users/Emir/Dropbox/MemoryCardsHTML/index.html",
+		"/C/Users/Emir/Dropbox/MemoryCardsHTML/css/css3flip.css",
+		"/C/Users/Emir/Dropbox/MemoryCardsHTML/css/css3transitions.css",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/PingPongGameMain.sublime-project",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/index.html",
+		"/D/NOVATEC/RRC Ener Eye/EnerEyeNgPoc/Development/Develop01/Src/EnerEyeNgPoc/Presentation/Rrc.EnerEye.Configurator/Assets/Styles/Cosmopolitan/Fonts.xaml",
+		"/C/ProgramData/Microsoft/Windows/Start Menu/Programs/CodeBehindAppearanceApi.cs",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/js/main.js",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/css/main.css",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/js/paddle.js",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/js/game.js",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/js/ball.js",
+		"/C/Users/EMIR/Dropbox/Full Ping Pong/Main/PingPongGame/js/main (HAL9000's conflicted copy 2012-05-07).js",
+		"/C/Users/EMIR/Desktop/Test DeepCopy/index.html",
+		"/C/Users/EMIR/Desktop/Test DeepCopy/main.js",
+		"/C/Users/EMIR/Dropbox/PingPongGame/css/main.css",
+		"/C/Users/EMIR/Dropbox/PingPongGame/js/main.js",
+		"/C/Users/EMIR/Dropbox/PingPongGame/index.html",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/EMIR/Desktop/Planning Module/planning.boxes.frame.js",
+		"/C/Users/EMIR/Desktop/Planning Module/jquery.planning.box.js",
+		"/C/Users/EMIR/Desktop/Planning Module/planning.utilities.js",
+		"/C/Users/EMIR/Desktop/Planning Module/planning.wizard.js",
+		"/C/Users/EMIR/Desktop/SearchFilter/oldSearch.js",
+		"/C/Users/EMIR/Desktop/SearchFilter/Search.js",
+		"/C/Users/EMIR/Desktop/Index.html",
+		"/C/Users/EMIR/Desktop/Planning Module/planning.wizard",
+		"/C/Users/EMIR/Desktop/jquery.planning.box.js",
+		"/C/Users/EMIR/Desktop/planningBoxFrame.js",
+		"/C/Users/EMIR/Desktop/planning.wizzard.js",
+		"/C/Users/EMIR/Desktop/RRC/framePlanningWizzardGlobal.js",
+		"/C/Users/EMIR/Desktop/RRC/PlanningBusinessLogic.cs",
+		"/C/Users/EMIR/Desktop/RRC/planningWizzard2.js",
+		"/C/Users/EMIR/Desktop/RRC/planning.wizard.js",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/Color Scheme - Default/Twilight.tmTheme",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/User/JavaScript.sublime-settings",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/Prefixr/Default (Windows).sublime-keymap",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/Inc-Dec-Value/inc_dec_value.sublime-settings",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/jQuery Snippets pack/README.md",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/jQuery Snippets pack/$_ajax.sublime-snippet",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/jQuery Snippets pack/package-metadata.json",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/User/Package Control.sublime-settings",
+		"/C/Users/EMIR/AppData/Roaming/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"100px",
+			"Development",
+			"                \n",
+			" {",
+			"span",
+			"experience",
+			"	\n",
+			"gameloop",
+			"connectCircles",
+			"setupCurrent",
+			"Line",
+			"level",
+			"getRandomRange",
+			"R",
+			"r",
+			"R",
+			"r",
+			"ctx",
+			"setupCurrentLevel",
+			"889ba7",
+			"students_GeoGrafija",
+			"button",
+			"connectCircles",
+			"setupCurrentLevel",
+			"updateLevelProgress",
+			"gameloo",
+			"text",
+			"gameloo",
+			"gameloop",
+			"progressPercentage",
+			"log",
+			"radius",
+			"drawCi",
+			"clearContext",
+			"log",
+			"log(",
+			"log",
+			"log(",
+			"log",
+			"Line",
+			"line",
+			"updateLineIntersection",
+			"connectCircles",
+			"setupCurrentLevel",
+			"	setupCurrentLevel(ctx);\n",
+			"updateLevelProgress",
+			"mousemove",
+			"connectCircles",
+			"end",
+			"updateLinIntersection",
+			"updateLineIntersection",
+			"updateLinIntersection",
+			"log",
+			"	",
+			"drawCircl",
+			"ctx.closePath();",
+			"box",
+			"transition",
+			"valueToReturn",
+			"return",
+			"background",
+			"color",
+			"playground",
+			"ball.",
+			"Delete",
+			"lineNonMainDimn",
+			"drawlines",
+			"userWidget",
+			"UserWidget",
+			"userWidget",
+			"show",
+			"initFullJsTreeFromSavedData",
+			"performSearchComparisons",
+			"initFullJsTreeFromSavedData",
+			"performSearchComparisons",
+			"initFullJsTreeFromSavedData",
+			"calculate",
+			"PlanningUtilities",
+			"clapVAlue",
+			"calculatenewvalu",
+			"changeValue",
+			"markup",
+			"remove",
+			"			    	",
+			"setPlanningDataValue",
+			"calculateBoxValue",
+			"edit",
+			"progressBAr",
+			"slider",
+			"setupEditValueButton",
+			"title",
+			"editValueData",
+			"editValue",
+			"setupEditValueButton",
+			"click",
+			"mark",
+			"log",
+			"markup",
+			"handleEditValueClick",
+			"isAbsolute",
+			"isreadonly",
+			"isReadOnly",
+			"parentID",
+			"calculated",
+			"minmax",
+			"calculated",
+			"checkCalculatedMinimumAndMaximum",
+			"planningDAta",
+			"isReadonly",
+			".data(\"absolute",
+			".data(\"isabsolute",
+			"container",
+			"handle",
+			"title",
+			"makePlanEditable",
+			"makePlanNotEditable",
+			"checkGlobalPartEditables",
+			"checkGlobalPartEditables();",
+			"markup",
+			".data(\"isAbso",
+			"isAbsolute",
+			"addMArkupToBox",
+			"addMarkupToBox",
+			"checkCalculatedMinimumAndMaximum",
+			"setPlanningDataValue",
+			"SetPlanningDataValue",
+			"setPlanningDataValue",
+			"when"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 37.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".css",
+				"CV HTML 5/styles.css"
+			],
+			[
+				"css",
+				"html5-curriculum-vitae-template/styles.css"
+			],
+			[
+				".less",
+				"Cv/css/site.less"
+			],
+			[
+				"sit",
+				"Cv/css/site.less"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"u",
+				"css/untangle.css"
+			],
+			[
+				".js",
+				"js/matchgame.js"
+			],
+			[
+				"main.js",
+				"js/main.js"
+			],
+			[
+				"ball.js",
+				"js/ball.js"
+			],
+			[
+				"paddle",
+				"js/paddle.js"
+			],
+			[
+				"game",
+				"js/game.js"
+			],
+			[
+				"ind",
+				"index.html"
+			],
+			[
+				"main",
+				"js/main.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/Emir/Dropbox/Full Ping Pong/Main/PingPongGame/PingPongGameMain.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 325.0,
+	"status_bar_visible": true
+}
